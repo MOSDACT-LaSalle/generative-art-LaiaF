@@ -1,3 +1,3 @@
 # generative-art-LaiaF
-My Generative art Piece
+## My Generative art Piece
 by Laia Ferran
